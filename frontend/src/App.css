@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.navlink li 
+{
+  display: inline-block;
+  font-size: 25px;
+  padding-left:20px ;
+}
+.navlink li a
+{
+  text-decoration: none;
+  color: white;
+}
+.navlink
+{
+  background-color: skyblue;
+  margin: 0px;
+  padding: 5px;
+}
+.footer
+{
+  position: absolute;
+  width: 100%;
+  background-color: skyblue;
+  bottom:0px;
+}
+.inputbox
+{
+  width: 300px;
+  border: 2px solid skyblue;
+  padding: 10px;
+  font-size: 20px;
+}
+button
+{
+  width:150px;
+  background-color: skyblue;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  border: none;
+}

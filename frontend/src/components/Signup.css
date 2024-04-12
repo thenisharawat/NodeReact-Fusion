@@ -1,0 +1,17 @@
+
+
+h1{
+    padding: 59px;
+    font-size: 32px;
+}
+
+.inputbox{
+    border: 3px solid black;
+    padding: 12px;
+    background-color: whitesmoke;
+}
+
+button{
+    background-color: blue;
+    font-size: 12px;
+}
